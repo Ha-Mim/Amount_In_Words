@@ -1,0 +1,9 @@
+D:\babu\AmountInWords\AmountInWords\bin\Debug\AmountInWords.exe
+D:\babu\AmountInWords\AmountInWords\bin\Debug\AmountInWords.pdb
+D:\babu\AmountInWords\AmountInWords\bin\Debug\AmountInWords.xml
+D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.Resources.resources
+D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.vbproj.GenerateResource.Cache
+D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.exe
+D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.xml
+D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.pdb
+D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.ShowAmountInWords.resources
