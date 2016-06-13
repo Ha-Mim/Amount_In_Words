@@ -41,6 +41,7 @@
             'if ((dblAmt > 0) && number.StartsWith("0"))
             If dblAmt > 0 Then
                 'test for zero or digit zero in a nuemric
+                number = dblAmt.ToString()
                 beginsZero = number.StartsWith("0")
 
                 Dim numDigits As Integer = number.Length
@@ -99,9 +100,9 @@
                     'if transalation is not done, continue...(Recursion comes in now!!)
                     word = translateWholeNumber(number.Substring(0, pos)) + place + translateWholeNumber(number.Substring(pos))
                     'check for trailing zeros
-                    If beginsZero Then
-                        word = " and " & word.Trim()
-                    End If
+                    'If beginsZero Then
+                    '    word = " and " & word.Trim()
+                    'End If
                 End If
                 'ignore digit grouping names
                 If word.Trim().Equals(place.Trim()) Then
