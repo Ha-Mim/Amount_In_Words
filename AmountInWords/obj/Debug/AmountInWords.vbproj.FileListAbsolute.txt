@@ -7,3 +7,12 @@ D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.exe
 D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.xml
 D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.pdb
 D:\babu\AmountInWords\AmountInWords\obj\Debug\AmountInWords.ShowAmountInWords.resources
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\obj\Debug\AmountInWords.exe
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\obj\Debug\AmountInWords.xml
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\obj\Debug\AmountInWords.pdb
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\bin\Debug\AmountInWords.exe
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\bin\Debug\AmountInWords.pdb
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\bin\Debug\AmountInWords.xml
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\obj\Debug\AmountInWords.ShowAmountInWords.resources
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\obj\Debug\AmountInWords.Resources.resources
+E:\IDCOL\Working\money_in_words\Amount_In_Words\AmountInWords\obj\Debug\AmountInWords.vbproj.GenerateResource.Cache
